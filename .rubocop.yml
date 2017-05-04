@@ -42,8 +42,3 @@ Metrics/LineLength:
 Metrics/BlockLength:
   # Ruduce this... Max: 25
   Max: 27
-
-##################### Bundler #############################
-
-Bundler/DuplicatedGem:
-Enabled: false
